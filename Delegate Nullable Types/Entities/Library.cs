@@ -21,12 +21,7 @@ namespace Delegate_Nullable_Types.Entities
             if (id == null) throw new NullReferenceException("Id cannot be null.");
             return Books.Find(b => b.Id == id && !b.IsDeleted);
         }
-        public List<Book> GetAllBooks()
-        {
-            var allBooks = new List<Book>();
-            allBooks.AddRange(Books);
-            return allBooks;
-        }
+        public List<Book> GetAllBooks() => Books.FindAll(b => !b.IsDeleted);
         public void DeleteBookById(int? id)
         {
             if (id == null) throw new NullReferenceException("Id cannot be null");

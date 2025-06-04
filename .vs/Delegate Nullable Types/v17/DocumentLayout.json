@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\mahir\\Desktop\\Delegate Nullable Types\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1DD478E8-9D0C-4498-96BF-FF6B503F004F}|Delegate Nullable Types\\Delegate Nullable Types.csproj|c:\\users\\mahir\\desktop\\delegate nullable types\\delegate nullable types\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1DD478E8-9D0C-4498-96BF-FF6B503F004F}|Delegate Nullable Types\\Delegate Nullable Types.csproj|solutionrelative:delegate nullable types\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{1DD478E8-9D0C-4498-96BF-FF6B503F004F}|Delegate Nullable Types\\Delegate Nullable Types.csproj|c:\\users\\mahir\\desktop\\delegate nullable types\\delegate nullable types\\entities\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1DD478E8-9D0C-4498-96BF-FF6B503F004F}|Delegate Nullable Types\\Delegate Nullable Types.csproj|solutionrelative:delegate nullable types\\entities\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DD478E8-9D0C-4498-96BF-FF6B503F004F}|Delegate Nullable Types\\Delegate Nullable Types.csproj|c:\\users\\mahir\\desktop\\delegate nullable types\\delegate nullable types\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DD478E8-9D0C-4498-96BF-FF6B503F004F}|Delegate Nullable Types\\Delegate Nullable Types.csproj|solutionrelative:delegate nullable types\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1DD478E8-9D0C-4498-96BF-FF6B503F004F}|Delegate Nullable Types\\Delegate Nullable Types.csproj|c:\\users\\mahir\\desktop\\delegate nullable types\\delegate nullable types\\entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -50,17 +50,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Library.cs",
               "DocumentMoniker": "C:\\Users\\mahir\\Desktop\\Delegate Nullable Types\\Delegate Nullable Types\\Entities\\Library.cs",
               "RelativeDocumentMoniker": "Delegate Nullable Types\\Entities\\Library.cs",
               "ToolTip": "C:\\Users\\mahir\\Desktop\\Delegate Nullable Types\\Delegate Nullable Types\\Entities\\Library.cs",
               "RelativeToolTip": "Delegate Nullable Types\\Entities\\Library.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAowAcAAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAYwBcAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-03T11:39:34.199Z",
               "EditorCaption": ""
@@ -75,8 +75,7 @@
               "RelativeToolTip": "Delegate Nullable Types\\Entities\\Book.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAABjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-03T11:33:59.346Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-03T11:33:59.346Z"
             },
             {
               "$type": "Document",
@@ -88,8 +87,7 @@
               "RelativeToolTip": "Delegate Nullable Types\\Entities\\User.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABTAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-03T11:29:47.486Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-03T11:29:47.486Z"
             },
             {
               "$type": "Document",
@@ -101,8 +99,7 @@
               "RelativeToolTip": "Utils\\Exceptions\\NotFoundException.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-03T11:27:59.794Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-03T11:27:59.794Z"
             },
             {
               "$type": "Document",
@@ -114,8 +111,7 @@
               "RelativeToolTip": "Utils\\Exceptions\\AlreadyExistsException.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-03T11:27:05.915Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-03T11:27:05.915Z"
             },
             {
               "$type": "Document",
@@ -127,8 +123,7 @@
               "RelativeToolTip": "Utils\\Exceptions\\CapacityLimitException.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-03T11:25:14.059Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-03T11:25:14.059Z"
             },
             {
               "$type": "Document",
@@ -140,12 +135,11 @@
               "RelativeToolTip": "Utils\\Enums\\Role.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-03T11:24:03.615Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-03T11:24:03.615Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\mahir\\Desktop\\Delegate Nullable Types\\Delegate Nullable Types\\Program.cs",
               "RelativeDocumentMoniker": "Delegate Nullable Types\\Program.cs",
@@ -166,8 +160,7 @@
               "RelativeToolTip": "Delegate Nullable Types\\Interfaces\\IEntity.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-03T11:11:05.875Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-03T11:11:05.875Z"
             },
             {
               "$type": "Document",
@@ -179,8 +172,7 @@
               "RelativeToolTip": "Delegate Nullable Types\\Entities\\Entity.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-03T11:18:57.1Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-03T11:18:57.1Z"
             }
           ]
         }
